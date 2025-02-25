@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 24 23:03:51 CST 2025","Mon Feb 24 23:03:52 CST 2025","258","testcases","test_Personal_Center","TestPersonal_Center","","","test_useraddress_delete[useraddress_delete;post;地址删除;lvmc;陈炎清;NO_001;地址删除]",""
+"passed","Mon Feb 24 23:03:51 CST 2025","Mon Feb 24 23:03:51 CST 2025","260","testcases","test_Personal_Center","TestPersonal_Center","","","test_useraddress_index[useraddress_index;post;地址列表;lvmc;陈炎清;NO_001;地址列表]",""
+"passed","Mon Feb 24 23:03:51 CST 2025","Mon Feb 24 23:03:51 CST 2025","250","testcases","test_Personal_Center","TestPersonal_Center","","","test_useraddress_save[useraddress_save;post;地址添加/修改;lvmc;陈炎清;NO_001;新增地址]",""

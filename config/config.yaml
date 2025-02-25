@@ -1,0 +1,73 @@
+url:
+  lingplatform: http://shop-xo.hctestedu.com/index.php?s=/api
+public_params:
+  application: web
+  application_client_type: pc
+report_path: ./reports/
+script_path: ./testcases/
+task_line:
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+- 运营平台
+module_name:
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+- 个人中心
+- 商品管理
+situation_name:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+useraddress_index:
+  NO_001:
+    id: '21321'
+init_search:
+  NO_001:
+    id: '12'
+usergoodsbrowse_index:
+  NO_001:
+    id: '5464'

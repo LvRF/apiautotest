@@ -1,0 +1,139 @@
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[3,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[4,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[5,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[7,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[8,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[9,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[10,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[11,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[12,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[13,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[14,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[15,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[16,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[17,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[18,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[19,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[20,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - error - 36 - ERROR : 【异常提醒】单元格[21,1]值为空，请检查controller表数据
+2025-02-24 23:03:48 - info - 24 - INFO : 用例数据写入json
+2025-02-24 23:03:48 - info - 24 - INFO : 基本信息写入配置文件
+2025-02-24 23:03:48 - info - 24 - INFO : ================生成用例脚本====================
+2025-02-24 23:03:48 - info - 24 - INFO : 生成测试类Personal_Center
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口useraddress_save用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口useraddress_index用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口useraddress_delete用例
+2025-02-24 23:03:48 - info - 24 - INFO : 生成测试类Goods_Mgmt
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口init_search用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口goods_detail用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口usergoodsbrowse_index用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口usergoodsbrowse_delete用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口goods_favor用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口usergoodsfavor_index用例
+2025-02-24 23:03:48 - info - 24 - INFO : 添加接口usergoodsfavor_cancel用例
+2025-02-24 23:03:49 - <module> - 19 - DEBUG : Not in REPL -> leaving logger event level as is.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.address`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.address` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.automotive`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.automotive` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.bank`.
+2025-02-24 23:03:50 - _find_provider_class - 86 - DEBUG : Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.barcode`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.barcode` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.color`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.color` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.company`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.company` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.credit_card` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.currency`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.currency` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.date_time`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.date_time` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:50 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.geo`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.geo` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.internet`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.internet` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.job`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.job` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.lorem`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.lorem` has been localized to `en_US`.
+2025-02-24 23:03:50 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.misc`.
+2025-02-24 23:03:50 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.misc` has been localized to `en_US`.
+2025-02-24 23:03:51 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.passport`.
+2025-02-24 23:03:51 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.passport` has been localized to `en_US`.
+2025-02-24 23:03:51 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.person`.
+2025-02-24 23:03:51 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.person` has been localized to `en_US`.
+2025-02-24 23:03:51 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2025-02-24 23:03:51 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.phone_number` has been localized to `en_US`.
+2025-02-24 23:03:51 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:51 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:51 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:51 - _find_provider_class - 76 - DEBUG : Looking for locale `en_US` in provider `faker.providers.ssn`.
+2025-02-24 23:03:51 - _find_provider_class - 95 - DEBUG : Provider `faker.providers.ssn` has been localized to `en_US`.
+2025-02-24 23:03:51 - _find_provider_class - 106 - DEBUG : Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-02-24 23:03:51 - _new_conn - 244 - DEBUG : Starting new HTTP connection (1): shop-xo.hctestedu.com:80
+2025-02-24 23:03:51 - _make_request - 546 - DEBUG : http://shop-xo.hctestedu.com:80 "POST /index.php?s=/api/user/login HTTP/1.1" 200 None
+2025-02-24 23:03:51 - info - 24 - INFO : 格式化case_data {'case_number': 'NO_001', 'case_name': '新增地址', 'case_level': 0, 'data': '{       "name": "福宝",\n        "tel": "1234567890",\n        "address": "中国大熊猫保护研究中心卧龙神树坪基地",\n        "province": "23",\n        "city": "403",\n        "county": "4347"\n    }', 'params': None, 'files': None, 'output_field': None, 'assertion': 'code,==,0\nmsg,==,新增成功', 'update': None, 'tag': None, 'null': None}
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换url
+2025-02-24 23:03:51 - info - 24 - INFO : 替换${url.lingplatform}/useraddress/save 的变量 url.lingplatform
+2025-02-24 23:03:51 - info - 24 - INFO : 执行用例: [新增地址]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求方式: [POST]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求地址: [http://shop-xo.hctestedu.com/index.php?s=/api/useraddress/save]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求参数: [{'name': '福宝', 'tel': '1234567890', 'address': '中国大熊猫保护研究中心卧龙神树坪基地', 'province': '23', 'city': '403', 'county': '4347'}]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求参数: [None]
+2025-02-24 23:03:51 - _new_conn - 244 - DEBUG : Starting new HTTP connection (1): shop-xo.hctestedu.com:80
+2025-02-24 23:03:51 - _make_request - 546 - DEBUG : http://shop-xo.hctestedu.com:80 "POST /index.php?s=/api/useraddress/save HTTP/1.1" 200 None
+2025-02-24 23:03:51 - info - 24 - INFO : 开始断言 code,==,0
+2025-02-24 23:03:51 - info - 24 - INFO : 目标字段:code,从response中获取其值为：0
+2025-02-24 23:03:51 - info - 24 - INFO : target的值为：0
+2025-02-24 23:03:51 - info - 24 - INFO : 断言通过,0 == 0
+2025-02-24 23:03:51 - info - 24 - INFO : 开始断言 msg,==,新增成功
+2025-02-24 23:03:51 - info - 24 - INFO : 目标字段:msg,从response中获取其值为：新增成功
+2025-02-24 23:03:51 - info - 24 - INFO : target的值为：新增成功
+2025-02-24 23:03:51 - info - 24 - INFO : 断言通过,新增成功 == 新增成功
+2025-02-24 23:03:51 - info - 24 - INFO : 格式化case_data {'case_number': 'NO_001', 'case_name': '地址列表', 'case_level': '0', 'data': '{}', 'params': None, 'files': None, 'output_field': 'data.data.id[0]', 'assertion': 'data.data.name,==,福宝', 'update': None, 'tag': None, 'null': None}
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换url
+2025-02-24 23:03:51 - info - 24 - INFO : 替换${url.lingplatform}/useraddress/index 的变量 url.lingplatform
+2025-02-24 23:03:51 - info - 24 - INFO : 执行用例: [地址列表]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求方式: [POST]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求地址: [http://shop-xo.hctestedu.com/index.php?s=/api/useraddress/index]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求参数: [{}]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求参数: [None]
+2025-02-24 23:03:51 - _new_conn - 244 - DEBUG : Starting new HTTP connection (1): shop-xo.hctestedu.com:80
+2025-02-24 23:03:51 - _make_request - 546 - DEBUG : http://shop-xo.hctestedu.com:80 "POST /index.php?s=/api/useraddress/index HTTP/1.1" 200 None
+2025-02-24 23:03:51 - info - 24 - INFO : 依赖字段开始回写,格式为 目标字段:字段值：id:21321
+2025-02-24 23:03:51 - info - 24 - INFO : 开始断言 data.data.name,==,福宝
+2025-02-24 23:03:51 - info - 24 - INFO : 目标字段:name,从response中获取其值为：福宝
+2025-02-24 23:03:51 - info - 24 - INFO : target的值为：福宝
+2025-02-24 23:03:51 - info - 24 - INFO : 断言通过,福宝 == 福宝
+2025-02-24 23:03:51 - info - 24 - INFO : 格式化case_data {'case_number': 'NO_001', 'case_name': '地址删除', 'case_level': 0, 'data': '{\n        "id": ${useraddress_index.NO_001.id}\n    }', 'params': None, 'files': None, 'output_field': None, 'assertion': 'code,==,0\nmsg,==,删除成功', 'update': None, 'tag': None, 'null': None}
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换{
+        "id": ${useraddress_index.NO_001.id}
+    } 的变量 useraddress_index.NO_001.id
+2025-02-24 23:03:51 - info - 24 - INFO : 替换data
+2025-02-24 23:03:51 - info - 24 - INFO : 替换url
+2025-02-24 23:03:51 - info - 24 - INFO : 替换${url.lingplatform}/useraddress/delete 的变量 url.lingplatform
+2025-02-24 23:03:51 - info - 24 - INFO : 执行用例: [地址删除]
+2025-02-24 23:03:51 - info - 24 - INFO : 请求方式: [POST]
+2025-02-24 23:03:52 - info - 24 - INFO : 请求地址: [http://shop-xo.hctestedu.com/index.php?s=/api/useraddress/delete]
+2025-02-24 23:03:52 - info - 24 - INFO : 请求参数: [{'id': 21321}]
+2025-02-24 23:03:52 - info - 24 - INFO : 请求参数: [None]
+2025-02-24 23:03:52 - _new_conn - 244 - DEBUG : Starting new HTTP connection (1): shop-xo.hctestedu.com:80
+2025-02-24 23:03:52 - _make_request - 546 - DEBUG : http://shop-xo.hctestedu.com:80 "POST /index.php?s=/api/useraddress/delete HTTP/1.1" 200 None
+2025-02-24 23:03:52 - info - 24 - INFO : 开始断言 code,==,0
+2025-02-24 23:03:52 - info - 24 - INFO : 目标字段:code,从response中获取其值为：0
+2025-02-24 23:03:52 - info - 24 - INFO : target的值为：0
+2025-02-24 23:03:52 - info - 24 - INFO : 断言通过,0 == 0
+2025-02-24 23:03:52 - info - 24 - INFO : 开始断言 msg,==,删除成功
+2025-02-24 23:03:52 - info - 24 - INFO : 目标字段:msg,从response中获取其值为：删除成功
+2025-02-24 23:03:52 - info - 24 - INFO : target的值为：删除成功
+2025-02-24 23:03:52 - info - 24 - INFO : 断言通过,删除成功 == 删除成功
